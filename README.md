@@ -9,14 +9,14 @@
 # 🌐 SimpleSocial
 
 📝 **Contents**
-- [Introduction](#introduction)
-- [Technology Stack](#technology-stack)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Running the Project](#running-the-project)
-- [API Key Management](#api-key-management)
-- [Contributing](#contributing)
-- [Contact Information](#contact-information)
+- [Introduction](#-introduction)
+- [Technology Stack](#-technology-stack)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Running the Project](#-running-the-project)
+- [API Key Management](#-api-key-management)
+- [Contributing](#-contributing)
+- [Contact Information](#-contact-information)
 
 ## 🌟 Introduction
 **SimpleSocial** is a Django-based social networking application that allows users to create and manage posts, join groups, and interact with other users. The project is structured into multiple Django apps to handle different functionalities like user authentication, group management, and posting.
