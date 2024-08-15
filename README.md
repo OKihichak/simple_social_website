@@ -59,7 +59,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/simplesocial.git
+    git clone https://github.com/OKihichak/simple_social_website.git
     cd simplesocial
     ```
 
@@ -110,5 +110,5 @@ Contributions are welcome! If you'd like to contribute to the SimpleSocial proje
 5. **Open a pull request** to discuss and merge your changes.
 
 ## 📧 Contact Information
-- **Email**: artem.burov0205@gmail.com
+- **Email**: oleg15062005@gmail.com
 - **GitHub**: [Oleh Kihichak](https://github.com/OKihichak)
