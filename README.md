@@ -1,3 +1,11 @@
+
+![стар](https://github.com/user-attachments/assets/be94d1a3-2719-4996-804d-00b9b91cd928)
+![стар2](https://github.com/user-attachments/assets/57a76471-e756-450e-ac3d-e550c56ebf54)
+![стар3](https://github.com/user-attachments/assets/e5604864-d3d5-4428-bcb8-a2293688f793)
+![стар4](https://github.com/user-attachments/assets/61d7c594-02f8-4921-bd09-15d16225de36)
+
+
+
 # 🌐 SimpleSocial
 
 📝 **Contents**
